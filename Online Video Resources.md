@@ -8,3 +8,6 @@
 
 ## Permutations & Combinations
 [Permutations & Combinations](https://www.udemy.com/share/101w9O3@z-sFZipv-HR_OBhJl93ZagNq2gFUQiEa6VnaK2qWJJLTcEgsvjVoQiuyoBNFZbE3/)
+
+## Exciting Words Flashcards
+[Flashcards for words required for verbal](https://www.udemy.com/share/106bJq3@APcRLxqYUNNXfU1lDhPU8GyKqgqItzFsVUhMG53yadpYXC9_2UD4jOlpwhxNRUcB/)
